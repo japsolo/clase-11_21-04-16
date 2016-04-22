@@ -1,0 +1,20 @@
+[class*=container]{
+	border: dashed 1px red;
+}
+[class*=col-]{
+	background-color: #f2f2f2;
+	border: solid 1px #333;
+}
+
+.mi-clase{
+	color: red;
+}
+
+#mi-section{
+	background-color: #959595;
+}
+
+.pagination li a{
+	background: red;
+	color: #fff;
+}
